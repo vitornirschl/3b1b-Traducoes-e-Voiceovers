@@ -1,6 +1,6 @@
 # 3b1b: Traduções e Voiceovers
 
-Traduções e voiceovers que fiz para o português brasileiro de vídeos do canal 3blue1brown. Em vários vídeos tive o apoio de Rafael Valiati e Danielle Serafim.
+Traduções e voiceovers que fiz para o português brasileiro de vídeos do canal 3blue1brown. Tive o apoio de Rafael Valiati nas edições dos áudios e de Danielle Serafim em algumas traduções.
 
 # Lista de vídeos que já narrei em português
 ### Modelos de Linguagem de Grande Escala Explicados Resumidamente
