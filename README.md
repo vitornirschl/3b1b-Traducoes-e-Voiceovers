@@ -22,4 +22,5 @@ Traduções e voiceovers que fiz para o português brasileiro de vídeos do cana
 [![Thumbnail: A essência do cálculo](https://img.youtube.com/vi/Dlsa9EBKDGI/0.jpg)](https://www.youtube.com/watch?v=Dlsa9EBKDGI)
 
 ### Terence Tao Fala Sobre Como Medimos o Cosmos | Parte 1
+Com a participação de Rafael Valiati no papel de Terence Tao
 [![Thumbnail: A essência do cálculo](https://img.youtube.com/vi/YdOXS_9_P4U/0.jpg)](https://www.youtube.com/watch?v=YdOXS_9_P4U)
